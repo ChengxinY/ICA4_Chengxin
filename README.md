@@ -34,4 +34,4 @@ ORDER BY sat_scores ASC
 FROM datasets.sat_scores
 ORDER BY sat_verbal DESC
 ```
-![ICA4_Chengxin](sat_verbal_rank)
+![ICA4_Chengxin](sat_verbal_rank.png)
